@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318381642831",
+    "project_id": "fcm-test-12e22",
+    "storage_bucket": "fcm-test-12e22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318381642831:android:7746c569849fbf4ab1c63a",
+        "android_client_info": {
+          "package_name": "com.beeeam.fcm_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAexP63xxymLl1BPIEy0DDlX44NEptqQVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
